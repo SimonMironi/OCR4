@@ -1,6 +1,0 @@
-## EXPIRES HEADER CACHING ##
-<IfModule mod_expires.c>
-ExpiresActive On
-ExpiresByType img/webp "access 1 year"
-</IfModule>
-## EXPIRES HEADER CACHING ##

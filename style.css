@@ -1150,3 +1150,7 @@ span.fa{
     padding-bottom: 8px;
     color: #fff !important;
 }
+
+button.bloc-button{
+    color: black !important;
+}

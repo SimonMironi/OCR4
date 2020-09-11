@@ -1,4 +1,4 @@
 User-agent: Googlebot
-Allow: https://simonmironi.github.io/OCR_projet4/
+Allow: https://simonmironi.github.io/OCR4/
 
-Sitemap: https://simonmironi.github.io/OCR_projet4/sitemap.xml
+Sitemap: https://simonmironi.github.io/OCR4/sitemap.xml

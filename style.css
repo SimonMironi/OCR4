@@ -1132,7 +1132,7 @@ a.btn{
     background-color:#F3976C !important;
     color: black !important;
 }
-p.text-center.white{
+p.text-center.white-bottom{
     color: black !important;
 }
 a.portfolio{
@@ -1153,4 +1153,7 @@ span.fa{
 
 button.bloc-button{
     color: black !important;
+}
+.col-sm-12 p.text-center.white{
+    color: white !important;
 }
